@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DinnerAssignment</string>
+  <string name="title_activity_main">MainActivity</string>
+  <string name="add_new_food">Add a new food</string>
+  <string name="add_food_button">ADD</string>
+  <string name="decide_button">DECIDE!</string>
+</resources>
